@@ -1,0 +1,15 @@
+C:\Users\k_aid\Desktop\HW4\Задача 25\obj\Debug\net6.0\Задача 25.csproj.AssemblyReference.cache
+C:\Users\k_aid\Desktop\HW4\Задача 25\obj\Debug\net6.0\Задача 25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_aid\Desktop\HW4\Задача 25\obj\Debug\net6.0\Задача 25.AssemblyInfoInputs.cache
+C:\Users\k_aid\Desktop\HW4\Задача 25\obj\Debug\net6.0\Задача 25.AssemblyInfo.cs
+C:\Users\k_aid\Desktop\HW4\Задача 25\obj\Debug\net6.0\Задача 25.csproj.CoreCompileInputs.cache
+C:\Users\k_aid\Desktop\HW4\Задача 25\bin\Debug\net6.0\Задача 25.exe
+C:\Users\k_aid\Desktop\HW4\Задача 25\bin\Debug\net6.0\Задача 25.deps.json
+C:\Users\k_aid\Desktop\HW4\Задача 25\bin\Debug\net6.0\Задача 25.runtimeconfig.json
+C:\Users\k_aid\Desktop\HW4\Задача 25\bin\Debug\net6.0\Задача 25.dll
+C:\Users\k_aid\Desktop\HW4\Задача 25\bin\Debug\net6.0\Задача 25.pdb
+C:\Users\k_aid\Desktop\HW4\Задача 25\obj\Debug\net6.0\Задача 25.dll
+C:\Users\k_aid\Desktop\HW4\Задача 25\obj\Debug\net6.0\refint\Задача 25.dll
+C:\Users\k_aid\Desktop\HW4\Задача 25\obj\Debug\net6.0\Задача 25.pdb
+C:\Users\k_aid\Desktop\HW4\Задача 25\obj\Debug\net6.0\Задача 25.genruntimeconfig.cache
+C:\Users\k_aid\Desktop\HW4\Задача 25\obj\Debug\net6.0\ref\Задача 25.dll
